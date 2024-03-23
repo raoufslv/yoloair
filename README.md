@@ -1,5 +1,7 @@
 ## 全新的 UltralyticsPro 项目来袭🚀
 
+项目地址：[https://github.com/iscyy/ultralyticsPro](https://github.com/iscyy/ultralyticsPro)
+
 🔥🔥🔥专注于YOLOv8改进，NEW - YOLOv8 🚀 in PyTorch >, Support to improve Backbone, Neck, Head, Loss, IoU, LA, NMS and other modules🚀 Makes YOLOv8 improvements easy again
 
 🌟 全新的YOLOv8改进项目**ultralyticsPro**来袭，最新改进点更新🚀2024
