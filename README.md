@@ -1,3 +1,16 @@
+---------
+### YOLOv5、YOLOv7、YOLOv8 模型 2024/全系列/最新/改进方式教程（内附源代码）
+
+🔥 《芒果书》系列改进专栏内的改进文章
+
+专栏地址：[独家全网首发专栏《芒果YOLOv8深度改进教程》](https://blog.csdn.net/qq_38668236/category_12356719.html)🍊
+
+专栏地址：[独家全网首发专栏《芒果YOLOv5深度改进教程》](https://blog.csdn.net/qq_38668236/category_12297448.html)🥝
+
+专栏地址：[独家全网首发专栏《芒果YOLOv7深度改进教程》](https://blog.csdn.net/qq_38668236/category_12219317.html)🍉
+
+-------
+
 ## 全新的 UltralyticsPro 项目来袭🚀
 
 项目地址：[https://github.com/iscyy/ultralyticsPro](https://github.com/iscyy/ultralyticsPro)
